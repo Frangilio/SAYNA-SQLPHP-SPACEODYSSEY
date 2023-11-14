@@ -1,0 +1,11 @@
+{
+    "require": {
+        "illuminate/collections": "^18.40"
+    },
+    "autoload": {
+        "psr-4": {
+        "Core\\" : "Core/",
+        "Http\\": "Http/"
+        }
+    }
+}
